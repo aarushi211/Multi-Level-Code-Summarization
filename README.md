@@ -6,7 +6,7 @@ Suddenly seeing a large code repositories and being told to work with it is a da
 - [Installation](#installation)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Demo]
+- [Demo](#demo)
 
 ## Installation
 1. Clone the repo
