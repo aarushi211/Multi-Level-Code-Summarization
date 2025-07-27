@@ -7,6 +7,7 @@ Suddenly seeing a large code repositories and being told to work with it is a da
 - [Methodology](#methodology)
 - [Results](#results)
 - [Demo](#demo)
+- [Run in Colab](#run-in-colab)
 
 ## Installation
 1. Clone the repo
@@ -67,3 +68,8 @@ We used the CodeSearchNet dataset (https://github.com/github/CodeSearchNet). Sin
 
 ## Demo
 A demo is available at - https://huggingface.co/spaces/aarushi-211/Multi-Level-Code-Summarizer
+
+## Run in Colab
+The below example implements 1% of dataset on the evaluation metrics.
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aarushi211/Multi-Level-Code-Summarization/blob/main/colab_demo.ipynb)
