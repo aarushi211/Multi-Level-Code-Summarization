@@ -8,7 +8,7 @@ Suddenly seeing a large code repositories and being told to work with it is a da
 - [Results](#results)
 - [Demo](#demo)
 - [Run in Colab](#run-in-colab)
-
+- [References]
 ## Installation
 1. Clone the repo
 ```bash
@@ -73,3 +73,8 @@ A demo is available at - https://huggingface.co/spaces/aarushi-211/Multi-Level-C
 The below example implements 1% of dataset on the evaluation metrics.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4xXoZIthh28OXF2p95zYhcyXWXwXQ_-?usp=sharing)
+
+## References
+- CodeT5: [Wang et al., EMNLP 2021](https://arxiv.org/abs/2109.00859)
+- Longformer/LED: [Beltagy et al., 2020](https://arxiv.org/abs/2004.05150)
+- CodeSearchNet: [Husain et al., 2019](https://arxiv.org/abs/1909.09436)
