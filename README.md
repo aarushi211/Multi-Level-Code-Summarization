@@ -66,5 +66,4 @@ We used the CodeSearchNet dataset (https://github.com/github/CodeSearchNet). Sin
 * Cosine Similarity: 52.71
 
 ## Demo
-A demo is available at - https://huggingface.co/spaces/aarushi-211/TOS-Summarizer
-
+A demo is available at - https://huggingface.co/spaces/aarushi-211/Multi-Level-Code-Summarizer
