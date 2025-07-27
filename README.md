@@ -72,4 +72,4 @@ A demo is available at - https://huggingface.co/spaces/aarushi-211/Multi-Level-C
 ## Run in Colab
 The below example implements 1% of dataset on the evaluation metrics.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aarushi211/Multi-Level-Code-Summarization/blob/main/colab_demo.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4xXoZIthh28OXF2p95zYhcyXWXwXQ_-?usp=sharing)
